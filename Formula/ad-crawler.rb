@@ -2,7 +2,7 @@ class AdCrawler < Formula
   desc "CLI for collecting ad library page data and downloading discovered media"
   homepage "https://github.com/MinhQuan-Github/ad-crawler"
   url "https://github.com/MinhQuan-Github/ad-crawler/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "c26009a866c7470ed6fa995019a438ec8d4ab58919d572d3e806e9a3997bf350"
+  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
   license "UNLICENSED"
 
   depends_on "node"
